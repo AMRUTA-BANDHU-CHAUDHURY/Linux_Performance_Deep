@@ -22,3 +22,19 @@ http://www.brendangregg.com/USEmethod/use-linux.html
 
 Flame Graphs
 http://www.brendangregg.com/FlameGraphs/cpuflamegraphs.html
+
+https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-linux-kernel-development-lfd103/course-introduction/the-linux-foundation?page=2
+
+The Linux Foundation hosts an increasing number of events each year, including:
+
+Open Source Summit North America, Europe, Japan, and China
+Embedded Linux Conference + OpenIoT Summit North America and Europe
+Open Source Leadership Summit
+Open Networking Summit North America and Europe
+KubeCon + CloudNativeCon North America, Europe, and China
+Automotive Linux Summit
+KVM Forum
+Linux Storage Filesystem and Memory Management Summit
+Linux Security Summit North America and Europe
+Cloud Foundry Summit
+Hyperledger Global Forum, etc.
